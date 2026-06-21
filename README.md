@@ -1,20 +1,15 @@
 # Hi there 👋, I'm Ali Al Rafei
 
 ### Software Engineer • Computer Scientist • Systems Enthusiast
-
 > *Observe. Analyze. Understand.*
-
 ---
-
 ### 🔭 Currently Building
 
 * **A-Haytham** — Lightweight JVM Observability Platform
 * Distributed Systems
 * AI & Machine Learning projects
 * Performance Engineering tools
-
 ---
-
 ### 🌱 Exploring
 
 * JVM Internals
@@ -23,9 +18,7 @@
 * AI and LLMs
 * Security Engineering
 * Performance Optimization
-
 ---
-
 ### ⚡ Technologies
 
 ### Languages
@@ -108,10 +101,7 @@
 ![Computer Architecture](https://img.shields.io/badge/Computer_Architecture-CPU-red)
 ![System Design](https://img.shields.io/badge/System_Design-Scalability-blue)
 ![JVM Internals](https://img.shields.io/badge/JVM_Internals-HotSpot-orange)
-
-
 ---
-
 ### 💡 Areas of Interest
 
 * JVM Internals
@@ -121,22 +111,16 @@
 * Artificial Intelligence
 * Data Science
 * Performance Engineering
-
 ---
-
 ### 🏛️ Projects
 
 * 🧠 **A-Haytham** — Deep JVM Observability Platform
 * 📊 Data Science and AI projects
 * ⚙️ Distributed Systems experiments
 * 🔬 Performance Engineering tools
-
 ---
-
 ### 📫 Connect with me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Al_Rafei-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-al-rafei/)
-
 ---
 
 *"Building software from first principles."*
