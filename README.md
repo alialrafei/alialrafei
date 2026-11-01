@@ -38,7 +38,7 @@
 ---
 ### 🏛️ Projects
 
-* 🧠 **A-Haytham** — Deep JVM Observability Platform
+* 🧠 **A-Haytham** — Deep Observability Tool
 * 📊 Data Science and AI projects
 * ⚙️ Distributed Systems experiments
 * 🔬 Performance Engineering tools
