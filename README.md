@@ -4,7 +4,7 @@
 > *Observe. Analyze. Understand.*
 ---
 ### 🌱 Exploring
-* JVM Internals
+* Programming Languages Internals
 * Operating Systems
 * Distributed Systems
 * AI and LLMs
@@ -28,7 +28,7 @@
 
 ### 💡 Areas of Interest
 
-* JVM Internals
+* Programming Languages Internals
 * Distributed Systems
 * Observability
 * Operating Systems
